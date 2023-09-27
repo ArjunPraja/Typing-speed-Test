@@ -1,7 +1,7 @@
 # Typing Speed Test
 
 ![Project Image](image1.png)
-
+![result Image](image2.img)
 A simple Python application for testing your typing speed. This application presents you with a random paragraph, and you need to type it as quickly and accurately as possible within a specified time limit. After the time is up, the application calculates and displays your typing accuracy and words per minute (WPM).
 
 ## Table of Contents
